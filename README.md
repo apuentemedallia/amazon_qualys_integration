@@ -1,3 +1,18 @@
-# amazon_qualys_integration
-This script will integrate our current infrastructure in Amazon with Qualys.
-I just added this new line yay!
+Amazon Qualys Sync
+==================
+
+The whole purpose of this script is to sync the Assets in Amazon and in Qualys.
+
+Installation
+------------
+
+Installation section
+
+Usage
+-----
+
+Usage section
+
+Contributing
+------------
+
